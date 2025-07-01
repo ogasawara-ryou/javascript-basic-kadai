@@ -1,5 +1,5 @@
 const xx = (x) => {
-    console.log(x*x);
+   return x * x;
 }
 
-xx(5);
+console.log(xx(10));
